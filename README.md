@@ -19,7 +19,6 @@
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
 - [Built Using](#built_using)
-- [Contributing](../CONTRIBUTING.md)
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
